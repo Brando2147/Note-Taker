@@ -21,7 +21,7 @@ This application is used to be able to record and save notes. The notes are save
 
 
 ## About 
-[![demo][product-screenshot]](/Develop/Assets/NoteTaker.png)
+[![demo][product-screenshot]](Develop/Assets/NoteTaker.png)
 
 
 

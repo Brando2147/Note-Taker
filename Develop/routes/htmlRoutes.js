@@ -2,10 +2,9 @@
 var path = require("path");
 
 
-
 module.exports = function (app) {
 
-
+    // Route to retrieve saved notes from /notes
     app.get("/notes", function (req, res) {
         res.sendFile(path.join(__dirname, "../public/notes.html"));
     });
